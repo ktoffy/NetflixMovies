@@ -1,4 +1,4 @@
-# Importing pandas and matplotlib
+# Importing pandas and matplotlib szerkesztve
 import pandas as pd
 import matplotlib.pyplot as plt
 
